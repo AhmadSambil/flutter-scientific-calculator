@@ -179,10 +179,10 @@ This project is available for educational and personal use.
 
 <div align="center">
 
-### Made with ❤️ using Flutter
+**Made with 💙 by [Ahmad Sambil](https://github.com/AhmadSambil)**
 
-# Calculass
+*If this project helped you, please give it a ⭐ — it means a lot!*
 
-**Calculate Smarter. Calculate Beautifully.**
+[![GitHub stars](https://img.shields.io/github/stars/AhmadSambil/flutter-scientific-calculator?style=social)](https://github.com/AhmadSambil/flutter-scientific-calculator/stargazers)
 
 </div>
